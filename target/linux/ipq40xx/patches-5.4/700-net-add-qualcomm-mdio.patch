@@ -201,7 +201,7 @@
 +}
 +
 +static const struct of_device_id ipq40xx_mdio_dt_ids[] = {
-+	{ .compatible = "qcom,ipq4019-mdio" },
++	{ .compatible = "qcom,ipq40xx-mdio" },
 +	{ }
 +};
 +MODULE_DEVICE_TABLE(of, ipq40xx_mdio_dt_ids);
