@@ -10,5 +10,5 @@ src-git freifunk https://github.com/freifunk/openwrt-packages.git
 #src-link custom /usr/src/openwrt/custom-feed
 #src-git helloworld https://github.com/fw876/helloworld
 #src-git kenzo https://github.com/kenzok8/openwrt-packages
-#src-git kenzo https://github.com/liu2833941599/openwrt-packages-modify
+src-git kenzo https://github.com/liu2833941599/openwrt-packages-modify
 src-git small https://github.com/kenzok8/small
